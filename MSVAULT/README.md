@@ -1,0 +1,1 @@
+Source code: https://github.com/qubic/core/blob/main/src/contracts/MsVault.h
